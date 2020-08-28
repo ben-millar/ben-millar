@@ -8,6 +8,8 @@
   <samp>I'm a 3rd-year game development student who likes to spend his days drinking coffee and glaring at linker errors until they go away.</samp>
 </p>
 
+#
+
 ![Graffiti Background](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
 
 <!--
