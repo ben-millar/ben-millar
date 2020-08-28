@@ -1,3 +1,8 @@
+---
+title: GitHub profile MD
+creator: Ben Millar
+---
+
 ![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/HiImBen.gif#center)
 
 <!--<h3 align="center">Hi, I'm Ben.</h3>-->
