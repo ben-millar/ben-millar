@@ -1,4 +1,4 @@
-![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner.png)
+![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
 
 <!--
 **ben-millar/ben-millar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
