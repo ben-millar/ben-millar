@@ -1,12 +1,15 @@
-![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
+![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/HiImBen.gif)
 
-<h3 align="center">Hi, I'm Ben.</h3>
+<!--<h3 align="center">Hi, I'm Ben.</h3>-->
 
 #
 
 <p align="center">
   <samp>3rd-year game development student who likes to spend his days drinking coffee while glaring at linker errors until they go away.</samp>
 </p>
+
+![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
+
 <!--
 **ben-millar/ben-millar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
