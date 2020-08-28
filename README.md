@@ -1,11 +1,6 @@
----
-title: GitHub profile MD
-creator: Ben Millar
----
-
-![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/HiImBen.gif#center)
-
-<!--<h3 align="center">Hi, I'm Ben.</h3>-->
+<p align="center">
+  <img width="264" height="77" src="https://raw.githubusercontent.com/ben-millar/ben-millar/master/HiImBen.gif">
+</p>
 
 #
 
@@ -13,13 +8,7 @@ creator: Ben Millar
   <samp>3rd-year game development student who likes to spend his days drinking coffee while glaring at linker errors until they go away.</samp>
 </p>
 
-![Scrolling Text](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
-
-
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
+![Graffiti Background](https://raw.githubusercontent.com/ben-millar/ben-millar/master/githubTopBanner2.png)
 
 <!--
 **ben-millar/ben-millar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
