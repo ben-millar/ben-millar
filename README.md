@@ -5,7 +5,7 @@
 #
 
 <p align="center">
-  <samp>I'm a 4th-year game development student who likes to spend his days drinking coffee and glaring at linker errors until they go away.</samp>
+  <samp>I'm a software engineer with a background in games development. I used to spend my days drinking coffee while glaring at linker errors; now I spend my days drinking coffee while glaring at stack traces, and my evenings glaring at linker errors.</samp>
 </p>
 
 #
